@@ -8,6 +8,7 @@ spring cloud使用版本：#Hoxton.SR4#
 现已有：
 >netflix eureka
 >>spring-cloud-starter-netflix-eureka-server
+
 >>spring-cloud-starter-netflix-eureka-client
 
 >lombok
